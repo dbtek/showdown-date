@@ -14,7 +14,7 @@ Date extension for Showdown. Provides date and time usage in markdown.
 ## Usage
 ```html
 <script src="showdown.js" />
-<script src="showdown-icon/showdown-date.js" />
+<script src="showdown-date/showdown-date.js" />
 ```
 
 ```js
