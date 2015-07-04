@@ -32,5 +32,5 @@
       }
     }]
   };
-  typeof window != "undefined" && window.Showdown && window.Showdown.extensions && (window.Showdown.extensions.date = a), typeof module != "undefined" && (module.exports = a)
+  typeof window != "undefined" && window.showdown && window.showdown.extensions && (window.showdown.extensions.date = a), typeof module != "undefined" && (module.exports = a)
 })();
